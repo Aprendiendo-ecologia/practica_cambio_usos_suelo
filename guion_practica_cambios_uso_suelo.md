@@ -124,7 +124,7 @@ Además, puedes consultar el siguiente material de apoyo:
 + [Presentación sobre cómo construir una base de datos relacionales.](https://prezi.com/vfd14shu1-kc/?utm_campaign=share&utm_medium=copy)
 + [Video mostrando cómo dar los primeros con QGIS.](https://www.youtube.com/watch?v=quS2ZzsEk8w&feature=emb_logo)
 
-Por último, para realizar la práctica necesitarás descargar este archivo .zip, que contiene la siguiente información:
+Por último, para realizar la práctica necesitarás descargar [este](https://github.com/Aprendiendo-ecologia/practica_cambio_usos_suelo/raw/main/downloadable_files/fuentes_datos.zip) archivo .zip, que contiene la siguiente información:
 
 + mucva25_zona.*: Conjunto de archivos con diversas extensiones (.dbf, .shx, .shp, .prj, .qpj) que constituyen una capa vectorial en formato shapefile. Puedes abrirlo con QGIS. En concreto esta capa contiene información de los usos del suelo de la zona del Patriarca, al noroeste de la ciudad de Córdoba. 
 + MUCVA25_Multi_UsosNiveles.mdb. Es una base de datos (en formato Access) que contiene información relevante sobre el mapa de vegetación anterior. Te resultará útil para generar los mapas de cambios binario y continuo.
