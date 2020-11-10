@@ -120,7 +120,22 @@ La siguiente secuencia muestra los pasos a dar, que están descritos a través d
     continuo de cambios.
 
 ***Documentación y ayuda***
-Toda esta práctica está explicada en los siguientes videos.
+Toda esta práctica está explicada en los siguientes videos
+
++ [Estructura del mapa de usos y coberturas vegetales de Andalucía.](https://www.youtube.com/watch?v=RNQ7qwG5UDQ&feature=emb_logo)
++ Construir un mapa binario de cambios de uso.
+
+  + [Flujo de trabajo para construir un mapa binario de cambios.](https://www.youtube.com/watch?v=zaWb9dY3FwM&feature=youtu.be)
+  + [Cómo generar el mapa binario de cambios de uso con QGIS.](https://www.youtube.com/watch?v=_qAXRjo20_4)
++ Construir un mapa continuo de cambios de uso.
+  +  [Flujo de trabajo para construir un mapa continuo de cambios.](https://www.youtube.com/watch?v=jYoxlRcxlig&feature=youtu.be)
+  + [Cómo generar el mapa continuo de cambios de uso con QGIS.](https://www.youtube.com/watch?v=Bc0otpOCU9g&feature=youtu.be&t=1s)
+
+Además, puedes consultar el siguiente material de apoyo:
+
++ Estupenda presentación de Blas Benito y de Miguel Sevilla-Callejo sobre aspectos generales de los SIG.
++ [Presentación sobre cómo construir una base de datos relacionales.](https://prezi.com/vfd14shu1-kc/?utm_campaign=share&utm_medium=copy)
++ [Video mostrando cómo dar los primeros con QGIS.](https://www.youtube.com/watch?v=quS2ZzsEk8w&feature=emb_logo)
 
 ***Material a entregar***
 
