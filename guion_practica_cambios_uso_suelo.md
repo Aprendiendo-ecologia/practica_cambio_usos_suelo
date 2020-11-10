@@ -104,20 +104,7 @@ permitirá conocer si el cambio ocurrido ha sido hacia un estado más
 complejo de la vegetación o al contrario. Para generar este mapa
 continuo tendremos que trabajar con QGIS y con Access.
 
-La siguiente secuencia muestra los pasos a dar, que están descritos a través de varios videos y presentaciones.
 
--   Generalidades de SIG. Cómo cargar una capa vectorial y servicios
-    WMS.
-
--   Estructura del mapa de usos y coberturas vegetales de Andalucía.
-
--   Explicación del flujo de trabajo (secuencia de tareas) aplicado para
-    realizar el mapa binario.
-
--   Paso a paso con QGIS para generar el mapa continuo de cambios.
-
--   Explicación del flujo de trabajo aplicado para realizar el mapa
-    continuo de cambios.
 
 ***Documentación y ayuda***
 Toda esta práctica está explicada en los siguientes videos
@@ -133,9 +120,14 @@ Toda esta práctica está explicada en los siguientes videos
 
 Además, puedes consultar el siguiente material de apoyo:
 
-+ Estupenda presentación de Blas Benito y de Miguel Sevilla-Callejo sobre aspectos generales de los SIG.
++ [Presentación de Blas Benito y de Miguel Sevilla-Callejo sobre aspectos generales de los SIG.](https://github.com/Aprendiendo-ecologia/practica_cambio_usos_suelo/raw/main/downloadable_files/SIG.pptx)
 + [Presentación sobre cómo construir una base de datos relacionales.](https://prezi.com/vfd14shu1-kc/?utm_campaign=share&utm_medium=copy)
 + [Video mostrando cómo dar los primeros con QGIS.](https://www.youtube.com/watch?v=quS2ZzsEk8w&feature=emb_logo)
+
+Por último, para realizar la práctica necesitarás descargar este archivo .zip, que contiene la siguiente información:
+
++ mucva25_zona.*: Conjunto de archivos con diversas extensiones (.dbf, .shx, .shp, .prj, .qpj) que constituyen una capa vectorial en formato shapefile. Puedes abrirlo con QGIS. En concreto esta capa contiene información de los usos del suelo de la zona del Patriarca, al noroeste de la ciudad de Córdoba. 
++ MUCVA25_Multi_UsosNiveles.mdb. Es una base de datos (en formato Access) que contiene información relevante sobre el mapa de vegetación anterior. Te resultará útil para generar los mapas de cambios binario y continuo.
 
 ***Material a entregar***
 
